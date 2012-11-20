@@ -1,3 +1,4 @@
 permalink: blog/:title/
 url: http://lucadegasperi.github.com/
 markdown: rdiscount
+pygments: true

@@ -16,7 +16,15 @@ From the dictionary context is refered as "the parts of a piece of writing, spee
 
 Usually, following OOCSS principles, when you want an element's variation, you add a class to it. That small <code>button different</code> class statement can quickly become huge especially if you plan on having many different variations.
 
-<script src="https://gist.github.com/3398306.js?file=without-context.html"></script>
+{% highlight html %}
+
+<div class="titlebar">
+    <a class="button different" href="#">I'm a different button</a>
+</a>
+
+<a class="button" href="#">I'm the default button</a>
+
+{% endhighlight %}
 
 <script src="https://gist.github.com/3398306.js?file=without-context.css"></script>
 
