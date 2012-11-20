@@ -1,0 +1,26 @@
+---
+title: "Field Notes by "
+layout: blog
+name: blog
+---
+
+{% for post in site.posts %}
+
+<article>
+	<header>
+		
+		<time datetime="{{ post.date | date: "%Y-%m-%d" }}" pubdate>{{ post.date | date: "%d %B %Y" }}</time>
+		
+		<h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+	</header>
+	<div class="content">
+
+		<p>{{ post.description }}</p>
+
+		<p class="readmore">
+			<a href="{{ site.url }}{{ post.url }}">Read More &rarr;</a>
+		</p>
+	</div>
+</article>
+
+{% endfor %}

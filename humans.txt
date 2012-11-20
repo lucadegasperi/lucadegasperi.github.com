@@ -1,0 +1,16 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Creator, Owner: Luca Degasperi
+  Site: http://www.lucadegasperi.com/
+  Twitter: http://twitter.com/lucadegasperi
+
+/* THANKS */
+  Names (& URL): 
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: 
