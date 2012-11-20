@@ -1,4 +1,4 @@
 permalink: blog/:title/
-url: http://lucadegasperi.github.com/
+url: http://lucadegasperi.com/
 markdown: rdiscount
 pygments: true
