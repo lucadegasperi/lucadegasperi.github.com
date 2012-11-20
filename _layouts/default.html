@@ -6,7 +6,11 @@
 	<head>
 		<meta charset="utf-8">
 
+		{% if page.name == 'blog' %}
+		<title>{{ page.title }} by Luca Degasperi ✪ Digital Creative</title>
+		{% else %}
 		<title>{{ page.title }} Luca Degasperi ✪ Digital Creative</title>
+		{% endif %}
 		<meta name="description" content="{{ page.description }}">
 		<meta name="author" content="Luca Degasperi">
 
