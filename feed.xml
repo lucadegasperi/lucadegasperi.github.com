@@ -1,0 +1,29 @@
+---
+title: feed
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Luca Degasperi</title>
+    <link>{{ site.url }}</link>
+    <description></description>
+    <copyright>{{ site.url }}</copyright>
+    <ttl>30</ttl>
+
+    {% for post in site.posts %}
+		<item>
+			<title>{{ post.title }}</title>
+			<description>
+			<![CDATA[
+				{{ post.description }}
+			]]>
+			
+			</description>
+			<link>{{ site.url }}{{ post.url }}</link>
+			<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+			<pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+		</item>
+	{% endfor %}
+  </channel>
+</rss>
