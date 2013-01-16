@@ -107,11 +107,11 @@
 		{% if(page.trackdetail) %}
 		<script>
 			analytics.track('{{page.track}}',{{page.trackdetail}});
-		<script>
+		</script>
 		{% elsif(page.track) %}
 		<script>
 			analytics.track('{{page.track}}');
-		<script>
+		</script>
 		{% endif %}
 	</body>
 </html>
