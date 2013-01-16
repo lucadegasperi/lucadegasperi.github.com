@@ -5,6 +5,7 @@ description: "This site is a huge leap forward for me and my presence on the web
 The idea of making a personal website is years old, I've always tried to come up with something. None of the solutions where good enough; After a period of time (usually hours) what I thought was awesome, made my eyes bleed.
 But, the more rejected ideas, the more it was clear what I really wanted to achieve.
 I've started thinking a lot more about my image, choosing colors, defining a logo, favourite fonts, layouts, and off course technologies."
+trackdetail: "{post: 'Behind The Scenes 1'}"
 ---
 
 This site is a huge leap forward for me and my presence on the web.

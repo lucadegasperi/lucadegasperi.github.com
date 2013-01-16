@@ -2,6 +2,7 @@
 title: "Context Based CSS"
 layout: post
 description: "If you haven't been on mars for the past few years, you might have heard the word OOCSS. OOCSS stands for object oriented CSS. It is a methodology for writing clean and performant CSS other developers (and yourself) will love to work with. OOCSS methodologies come from developers maintaining huge portals (for example Yahoo) and sharing their code with hudreds of other developers. But, if you aren't a CSS Jedi Master, and you are not building the next Google, OOCSS's potential can quickly turn your maintainability dreams into a deadly classitis syndrome with some risks of overengineering. Something you absolutely don't want. Here's a cure."
+trackdetail: "{post: 'Context Based CSS'}"
 ---
 
 If you haven't been on mars for the past few years, you might have heard the word OOCSS. OOCSS stands for object oriented CSS. It is a methodology for writing clean and performant CSS other developers (and yourself) will love to work with. OOCSS methodologies come from developers maintaining huge portals (for example Yahoo) and sharing their code with hudreds of other developers. But, if you aren't a CSS Jedi Master, and you are not building the next Google, OOCSS's potential can quickly turn your maintainability dreams into a deadly classitis syndrome with some risks of overengineering. Something you absolutely don't want. Here's a cure. <a href="http://lucadegasperi.com/blog/2012/08/20/context-based-css">meet the context</a>.

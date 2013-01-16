@@ -5,6 +5,7 @@ description: "Welcome to a new episode of my career.
 I've finally decided to create this new site and, most important, blog.  
 As some of you might now, Last year I had a fantastic internship at Smashing Magazine. Over there I've learned plenty of stuff and with their new redesign which I collaborated putting in place,
 my eyes have opened to the world of reading experience and typography."
+trackdetail: "{post: 'Getting It Started'}"
 ---
 
 Welcome to a new episode of my career.  

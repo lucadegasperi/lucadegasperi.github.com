@@ -104,5 +104,14 @@
 		</div>
 		
 		<script src="{{ site.url }}scripts/libraries/picturefill.js"></script>
+		{% if(page.trackdetail) %}
+		<script>
+			analytics.track('{{page.track}}',{{page.trackdetail}});
+		<script>
+		{% elsif(page.track) %}
+		<script>
+			analytics.track('{{page.track}}');
+		<script>
+		{% endif %}
 	</body>
 </html>

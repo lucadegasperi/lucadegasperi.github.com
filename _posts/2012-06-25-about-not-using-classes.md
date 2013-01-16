@@ -2,6 +2,7 @@
 title: "About Not Using Classes "
 layout: post
 description: "A recent Smashing Magazine's Article titled \"Classes? Where We’re Going, We Don’t Need Classes!\" by Heydon Pickering made me think a lot about the way I write CSS and HTML, It also reminded me of an idea I had a while ago. The article in question, despite the good intention, is receiving a lot of critiques, expecially from SMACSS / OOCSS users. Many of those people only understood the part about not using classes, instead of the wider scope of the article and the good points it made. Let's see what those points are and what instead is wrong with this approach."
+trackdetail: "{post: 'About Not Using Classes'}"
 ---
 
 A recent Smashing Magazine's Article titled "<a href="http://coding.smashingmagazine.com/2012/06/19/classes-where-were-going-we-dont-need-classes/" rel="nofollow" target="_blank">Classes? Where We’re Going, We Don’t Need Classes!</a>" by <a href="https://twitter.com/heydonworks" rel="nofollow" target="_blank">Heydon Pickering</a> made me think a lot about the way I write CSS and HTML, It also reminded me of an idea I had a while ago. The article in question, despite the good intention, is receiving a lot of critiques, expecially from SMACSS / OOCSS users. Many of those people only understood the part about not using classes, instead of the wider scope of the article and the good points it made. Let's see what those points are and what instead is wrong with this approach.
