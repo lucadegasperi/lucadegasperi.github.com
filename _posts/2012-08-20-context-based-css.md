@@ -54,6 +54,3 @@ It might be time to refactor your code and probably add another class to the ele
 ## Recap ##
 
 You might say you have done something similar to this for quite a long time without giving it a name. What's important is the awarness that what you do is actually producing some quality code and not some crappy unmaintainable code. This technique is suitable for medium sized projects and helps the problem of class cluttering the HTML quite a lot. For bigger projects you could consider something like Snook's <a href="http://smacss.com">SMACSS</a> approach.
-
-<a href="https://twitter.com/intent/tweet?button_hashtag=#ldcbcss&text=I've%20found%20this%20interesting%20article" class="twitter-hashtag-button" data-related="lucadegasperi" data-url="http://lucadegasperi.com/blog/2012/08/20/context-based-css" data-dnt="true">Tweet #ldcbcss</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> hashtag to discuss about this article.
